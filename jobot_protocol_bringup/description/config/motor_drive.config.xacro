@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="jobot_protocol_bringup">
+
+  <link name="world"/>
+
+  <xacro:include filename="$(find jobot_protocol_bringup)/description/ros2_control/motor_drive.ros2_control.xacro" />
+
+  <xacro:jobot_protocol_bringup/>
+</robot>
