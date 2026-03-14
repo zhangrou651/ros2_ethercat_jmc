@@ -1,5 +1,6 @@
 # 基于 Ethercat 控制电机
 本文档介绍如何基于Ethercat协议控制一体化伺服电机，以杰美康IHSS42-24-05-EC为例
+基于 SpaceMit k1 MUSE-Pi-Pro 开发板开发
 
 ## 硬件连接
 ![硬件连接](images/ethercat_motor.jpg)
